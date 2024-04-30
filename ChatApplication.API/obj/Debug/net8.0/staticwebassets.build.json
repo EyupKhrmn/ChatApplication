@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "JpQ2C/BH01yK3LjNhmINyb68HxANqy8BSUT9oYBJ2W4=",
+  "Source": "ChatApplication.API",
+  "BasePath": "_content/ChatApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ChatApplication.API/wwwroot",
+      "Source": "ChatApplication.API",
+      "ContentRoot": "/Users/eyupkahraman/RiderProjects/ChatApplication/ChatApplication.API/wwwroot/",
+      "BasePath": "_content/ChatApplication.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
